@@ -1,0 +1,1 @@
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"index.html","title":"Welcome to Ballylaneen","text":"<ul> <li>today's deaths.</li> </ul>"},{"location":"today.html","title":"Today","text":"<ul> <li>Deaths in 2024</li> </ul>"}]}
