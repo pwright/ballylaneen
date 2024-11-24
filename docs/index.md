@@ -1,3 +1,3 @@
 # Welcome to Ballylaneen
 
-* [today's deaths](today.md).
+[Today](today.md){ .md-button }

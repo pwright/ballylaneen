@@ -3,6 +3,9 @@
 
 This repository is configured to build a MkDocs site automatically every day using GitHub Actions. It also generates a `today.md` file in the `docs/` directory linking to today's "Deaths in YYYY" Wikipedia page.
 
+See [Ballylaneen]( https://pwright.github.io/ballylaneen/ ).
+
+
 ## Setup Instructions
 
 ### Prerequisites
