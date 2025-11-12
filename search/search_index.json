@@ -1,1 +1,1 @@
-{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"index.html","title":"Welcome to Ballylaneen","text":"<p>Today</p>"},{"location":"today.html","title":"Today","text":"<p>Deaths in 2025</p>"}]}
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"],"fields":{"title":{"boost":1000.0},"text":{"boost":1.0},"tags":{"boost":1000000.0}}},"docs":[{"location":"index.html","title":"Welcome to Ballylaneen","text":"<p>Today</p>"},{"location":"today.html","title":"Today","text":"<p>Deaths in 2025</p>"}]}
